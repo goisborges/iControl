@@ -1,0 +1,36 @@
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\bin\Debug\iControl.exe.config
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\bin\Debug\iControl.exe
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\bin\Debug\iControl.pdb
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\obj\Debug\iControl.csprojAssemblyReference.cache
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\obj\Debug\iControl.frmCategories.resources
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\obj\Debug\iControl.frmHome.resources
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\obj\Debug\iControl.frmCustomers.resources
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\obj\Debug\iControl.frmDatabaseTestWindow.resources
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\obj\Debug\iControl.frmOrders.resources
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\obj\Debug\iControl.frmProducts.resources
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\obj\Debug\iControl.Properties.Resources.resources
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\obj\Debug\iControl.frmSuppliers.resources
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\obj\Debug\iControl.csproj.GenerateResource.cache
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\obj\Debug\iControl.csproj.CoreCompileInputs.cache
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\obj\Debug\iControl.exe
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\obj\Debug\iControl.pdb
+C:\Users\goisb\Documents\GitHub\iControl\iControl\bin\Debug\iControl.exe.config
+C:\Users\goisb\Documents\GitHub\iControl\iControl\bin\Debug\iControl.exe
+C:\Users\goisb\Documents\GitHub\iControl\iControl\bin\Debug\iControl.pdb
+C:\Users\goisb\Documents\GitHub\iControl\iControl\obj\Debug\iControl.csprojAssemblyReference.cache
+C:\Users\goisb\Documents\GitHub\iControl\iControl\obj\Debug\iControl.frmCategories.resources
+C:\Users\goisb\Documents\GitHub\iControl\iControl\obj\Debug\iControl.frmHome.resources
+C:\Users\goisb\Documents\GitHub\iControl\iControl\obj\Debug\iControl.frmCustomers.resources
+C:\Users\goisb\Documents\GitHub\iControl\iControl\obj\Debug\iControl.frmDatabaseTestWindow.resources
+C:\Users\goisb\Documents\GitHub\iControl\iControl\obj\Debug\iControl.frmOrders.resources
+C:\Users\goisb\Documents\GitHub\iControl\iControl\obj\Debug\iControl.frmPrintScreen.resources
+C:\Users\goisb\Documents\GitHub\iControl\iControl\obj\Debug\iControl.frmProducts.resources
+C:\Users\goisb\Documents\GitHub\iControl\iControl\obj\Debug\iControl.frmViewOrders.resources
+C:\Users\goisb\Documents\GitHub\iControl\iControl\obj\Debug\iControl.Properties.Resources.resources
+C:\Users\goisb\Documents\GitHub\iControl\iControl\obj\Debug\iControl.frmSuppliers.resources
+C:\Users\goisb\Documents\GitHub\iControl\iControl\obj\Debug\iControl.csproj.GenerateResource.cache
+C:\Users\goisb\Documents\GitHub\iControl\iControl\obj\Debug\iControl.csproj.CoreCompileInputs.cache
+C:\Users\goisb\Documents\GitHub\iControl\iControl\obj\Debug\iControl.exe
+C:\Users\goisb\Documents\GitHub\iControl\iControl\obj\Debug\iControl.pdb
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\obj\Debug\iControl.frmPrintScreen.resources
+D:\Andrew School\Dropbox\COMP1098-.NetC#\Project\iControl\iControl\obj\Debug\iControl.frmViewOrders.resources
